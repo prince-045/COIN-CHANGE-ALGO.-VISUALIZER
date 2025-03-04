@@ -1,0 +1,49 @@
+
+body {
+
+    font-family: 'Arial', sans-serif;
+    background-image: url('2.png');
+    background-size: cover; 
+    background-position: center; 
+    
+}
+#t{
+    color: thistle;
+    
+}
+
+  
+  .container {
+    max-width: 1200px;
+  }
+  
+  .card {
+    border: none;
+    border-radius: 10px;
+  }
+  
+  .lead {
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+  
+  .table-responsive {
+    max-height: 400px;
+    overflow-y: auto;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #007bff;
+    color: white;
+  }
